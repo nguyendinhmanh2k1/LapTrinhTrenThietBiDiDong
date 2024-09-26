@@ -1,0 +1,102 @@
+[
+    {
+        "id": 0,
+        "name": "Samsung Galaxy Note 20 Ultra 5G",
+        "image": "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/b/l/black_final_1.jpg",
+        "price": "1000",
+        "owner": "",
+        "ice": [
+            "0%",
+            "30%",
+            "50%",
+            "70%",
+            "100%"
+        ],
+        "size": [
+            "S",
+            "M",
+            "L"
+        ],
+        "description": "Màu sắc phù hợp cá tính - 6 màu sắc bắt mắt để lựa chọn. Hiệu năng mượt mà, ổn định - Chip A13, RAM 4GB. Bắt trọn khung hình - Camera kép hỗ trợ góc rộng, chế độ Night Mode. Yên tâm sử dụng - Kháng nước, kháng bụi IP68, kính cường lực Gorilla"
+    },
+    {
+        "id": 1,
+        "name": "iPhone 13 | Chính hãng VN/A",
+        "image": "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/i/p/ip13-pro_2.jpg",
+        "price": "1000",
+        "owner": "",
+        "ice": [
+            "0%",
+            "30%",
+            "50%",
+            "70%",
+            "100%"
+        ],
+        "size": [
+            "S",
+            "M",
+            "L"
+        ],
+        "description": "Hiệu năng vượt trội - Chip Apple A15 Bionic mạnh mẽ, hỗ trợ mạng 5G tốc độ cao. Không gian hiển thị sống động - Màn hình 6.1 Super Retina XDR độ sáng cao, sắc nét. Trải nghiệm điện ảnh đỉnh cao - Camera kép 12MP, hỗ trợ ổn định hình ảnh quang học. Tối ưu điện năng - Sạc nhanh 20 W, đầy 50% pin trong khoảng 30 phút"
+    },
+    {
+        "id": 2,
+        "name": "ASUS ROG Phone 5 chính hãng",
+        "image": "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/a/s/asus-rog-phone-5_0002_gsmarena_001.jpg",
+        "price": 30000,
+        "owner": "",
+        "ice": [
+            "0%",
+            "30%",
+            "50%",
+            "70%",
+            "100%"
+        ],
+        "size": [
+            "S",
+            "M",
+            "L"
+        ],
+        "description": "Chinh phạt mọi giới hạn - Snapdragon 888 mạnh mẽ, RAM LPDDR5, bộ nhớ UFS 3.1. Hiển thị đẳng cấp - Màn hình AMOLED tần số quét 144Hz, phản hồi 1ms, kính Gorilla Victus.Tính năng dành cho game thủ - Cảm ứng đa điểm AirTrigger 5, loa kép chất lượng. Chiến game bất tận - Pin khủng 6000mAh, sạc siêu tốc 65W. "
+    },
+    {
+        "id": 3,
+        "name": "Samsung Galaxy Z Flip3 5G",
+        "image": "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/8/0/800x800_flip_3_black.png",
+        "price": 30000,
+        "owner": "",
+        "ice": [
+            "0%",
+            "30%",
+            "50%",
+            "70%",
+            "100%"
+        ],
+        "size": [
+            "S",
+            "M",
+            "L"
+        ],
+        "description": "Thiết kế độc đáo tiện lợi, khẳng định đẳng cấp - Thiết kế gập mở vỏ sò, khung nhôm aluminum chắc chắn. Màn hình kép ấn tượng - Màn hình chính: 6.7, màn hình phụ: 1.9 AMOLED. Hệ thống camera siêu ấn tượng - Bộ 3 ống kính camera 12MP, camera selfie sắc nét. Hiệu năng ấn tượng, làm chủ tốc độ - Snapdragon 888 kết hợp RAM 8GB, hỗ trợ 5G "
+    },
+    {
+        "id": 4,
+        "name": "Xiaomi Mi 11 Lite 5G",
+        "image": "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/x/i/xiaomi-mi-11-lite-5g-3_13.png",
+        "price": 30000,
+        "owner": "",
+        "ice": [
+            "0%",
+            "30%",
+            "50%",
+            "70%",
+            "100%"
+        ],
+        "size": [
+            "S",
+            "M",
+            "L"
+        ],
+        "description": "Không gian hiển thị thoải mái, chuyển động mượt - Màn hình tràn viền 6,55 inch, tần số quét 90Hz, HDR10+. Hiệu năng mạnh mẽ, ổn định - Chip Snapdragon 780G trên 5nm, 128GB bộ nhớ và 8GB RAM. Camera chụp ảnh ấn tượng - Cụm 3 camera sau 64MP, chụp đêm rõ nét. Sạc nhanh, trải nghiệm suốt ngày dài - Dung lượng pin 4250 mAh và hỗ trợ sạc nhanh 33W"
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "id": 0,
+        "name": "Vsmart Star 5",
+        "image": "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/v/s/vsmart-star-5-11_3.jpg",
+        "price": 40000,
+        "owner": "",
+        "ice": [
+            "0%",
+            "30%",
+            "50%",
+            "70%",
+            "100%"
+        ],
+        "size": [
+            "S",
+            "M",
+            "L"
+        ],
+        "description": "Miễn phí 4G tốc độ cao 10GB/ Tháng trong 18 tháng - Công nghệ Vsim ảo đầu tiên. Cấu hình vượt trội, trải nghiệm mạnh mẽ - Chip Helio G35 8 nhân, RAM 3GB. Màn hình siêu rộng, xem phim thả ga - Màn hình IPS LCD 6.528 inch, viền siêu mỏng, Sử dụng cả ngày dài - Pin 5000mAh, sạc nhanh 15W"
+    },
+    {
+        "id": 1,
+        "name": "Vsmart Joy 4",
+        "image": "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/v/s/vsmart-joy4-11.jpg",
+        "price": 30000,
+        "owner": "",
+        "ice": [
+            "0%",
+            "30%",
+            "50%",
+            "70%",
+            "100%"
+        ],
+        "size": [
+            "S",
+            "M",
+            "L"
+        ],
+        "description": "Màn hình lớn, siêu nét trong phân khúc - Kích thước 6.53 inch, độ phân giải FullHD+. Đồ họa mượt mà, chiến game bất tận - Vi xử lý Snapdragon 665AIE xung nhịp 2 0GHz. Giải trí ngày dài, sạc nhanh chớp mắt - Pin khủng 5000mAh, sạc nhanh QC 3.0 18W. Bắt trọn niềm vui - Bộ 4 camera AI mạnh mẽ, nhiều tính năng sáng tạo"
+    },
+    {
+        "id": 2,
+        "name": "ASUS ROG Phone 5",
+        "image": "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/r/o/rog_5_1.jpg",
+        "price": 30000,
+        "owner": "Ding Tea",
+        "ice": [
+            "0%",
+            "30%",
+            "50%",
+            "70%",
+            "100%"
+        ],
+        "size": [
+            "S",
+            "M",
+            "L"
+        ],
+        "description": "Chinh phạt mọi giới hạn - Snapdragon 888 mạnh mẽ, RAM LPDDR5, bộ nhớ UFS 3.1. Hiển thị đẳng cấp - Màn hình AMOLED tần số quét 144Hz, phản hồi 1ms, kính Gorilla Victus. Tính năng dành cho game thủ - Cảm ứng đa điểm AirTrigger 5, loa kép chất lượng, Chiến game bất tận - Pin khủng 6000mAh, sạc siêu tốc 65W"
+    },
+    {
+        "id": 3,
+        "name": "ASUS ROG Phone 3",
+        "image": "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/r/o/rog_3_4.jpg",
+        "price": 30000,
+        "owner": "Fly Tea",
+        "ice": [
+            "0%",
+            "30%",
+            "50%",
+            "70%",
+            "100%"
+        ],
+        "size": [
+            "S",
+            "M",
+            "L"
+        ],
+        "description": "Bức phá mọi giới hạn về hiệu năng - Snapdragon 865+ cao cấp, kết nối 5G, RAM 12GB. Màn hình chuẩn gaming - Tấm nền AMOLED, tần số quét cao 144Hz, HDR10+. Chơi game không gián đoạn - Pin khủng 6000mAh, chế độ pin tùy chỉnh. Chơi game khác biệt - Hệ thống âm thanh kép chất lượng cao, AirTrigger 3, chế độ X- Mode. Chụp ảnh chất lượng cao - Bộ ba camera 64MP với cảm biến hàng đầu"
+    },
+    {
+        "id": 4,
+        "name": "Nokia 5.4",
+        "image": "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/n/o/nokia-5.4-box.jpg",
+        "price": 30000,
+        "owner": "Fly Tea",
+        "ice": [
+            "0%",
+            "30%",
+            "50%",
+            "70%",
+            "100%"
+        ],
+        "size": [
+            "S",
+            "M",
+            "L"
+        ],
+        "description": "Chơi game, duyệt web thả ga - Màn hình đục lỗi 6.39inch rộng lớn, độ phân giải HD+ sắc nét. Bắt trọn thế giới muôn màu - Camera 4 ống kính 48MP và camera trước 16MP. Thời lượng pin lên đến 2 ngày - Pin lớn 4000mAh, công nghệ pin thích ứng hỗ trợ bởi AI. Hiệu năng ổn định, vận hành mượt mà - Snapdragon 662 hỗ trợ AI cho xử lý các tác vụ"
+    },
+    {
+        "id": 5,
+        "name": "Nokia 2.4",
+        "image": "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/n/o/nokia-2.4_2_.jpg",
+        "price": 30000,
+        "owner": "Fly Tea",
+        "ice": [
+            "0%",
+            "30%",
+            "50%",
+            "70%",
+            "100%"
+        ],
+        "size": [
+            "S",
+            "M",
+            "L"
+        ],
+        "description": "Hiển thị nội dung đã mắt- Màn hình lớn 6.5 inch, độ phân giải DH+ rõ nét. Chụp ảnh chi tiết - Camera kép thông minh, hỗ trợ chế độ chụp đêm. Sử dụng thả ga không lo hết pin - Pin 4500mAh, công nghệ pin thích ứng hỗ trợ bởi AI. Hiệu năng ổn định, giao diện mượt mà - Helio P22 vận hành mạnh mẽ, Android One cập nhật nhanh chóng, trải nghiệm nhẹ nhàng"
+    },
+    {
+        "id": 6,
+        "name": "Samsung Galaxy Z Flip3 5G",
+        "image": "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/8/0/800x800_flip_3_lavender.png",
+        "price": 30000,
+        "owner": "Fly Tea",
+        "ice": [
+            "0%",
+            "30%",
+            "50%",
+            "70%",
+            "100%"
+        ],
+        "size": [
+            "S",
+            "M",
+            "L"
+        ],
+        "description": "Thiết kế độc đáo tiện lợi, khẳng định đẳng cấp - Thiết kế gập mở vỏ sò, khung nhôm aluminum chắc chắn. Màn hình kép ấn tượng - Màn hình chính: 6.7, màn hình phụ: 1.9 AMOLED. Hệ thống camera siêu ấn tượng - Bộ 3 ống kính camera 12MP, camera selfie sắc nét. Hiệu năng ấn tượng, làm chủ tốc độ - Snapdragon 888 kết hợp RAM 8GB, hỗ trợ 5G"
+    },
+    {
+        "id": 7,
+        "name": "Samsung Galaxy A72",
+        "image": "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/s/a/samsung-galaxy-a72_2.jpg",
+        "price": 30000,
+        "owner": "Fly Tea",
+        "ice": [
+            "0%",
+            "30%",
+            "50%",
+            "70%",
+            "100%"
+        ],
+        "size": [
+            "S",
+            "M",
+            "L"
+        ],
+        "description": "Giải trí điện ảnh chất lượng - Màn hình Super AMOLED tần số quét 90Hz, độ sáng cao 800 nit. Bắt trọng khoảnh khắc sắc nét - Bộ camera 64MP, hỗ trợ chống rung 2 camera, Zoom xa 30X. An toàn khi sử dụng - Kháng nước, kháng bụi IP67. Hiệu năng ưu việt, đa nhiệm dễ dàng - Snapdragon 720G 8 nhân, RAM 8GB."
+    },
+    {
+        "id": 8,
+        "name": "Vivo Y20S",
+        "image": "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/v/i/vivo-y20s.jpg",
+        "price": 30000,
+        "owner": "Fly Tea",
+        "ice": [
+            "0%",
+            "30%",
+            "50%",
+            "70%",
+            "100%"
+        ],
+        "size": [
+            "S",
+            "M",
+            "L"
+        ],
+        "description": "Hiển thị màu sắc rực rỡ, chi tiết - Màn hình tràn Halo 6.51 inch, độ phân giải HD+. Bảo mật an toàn, nhanh chóng - Mở khóa vân tay cạnh bên, nhận diện khuôn mặt. Hiệu suất mạnh mẽ, vận hành mượt mà - Snapdragon 460 lõi tám, RAM 6GB. Chụp lại khoảnh khắc cuộc sống - Bộ 3 camera AI 13MP, hỗ trợ chụp cận ảnh, xóa phông. Xem phim, chơi game không ngừng nghỉ - Pin lớn 5000mAh, sạc nhanh 18W"
+    },
+    {
+        "id": 9,
+        "name": "Vivo Y12s",
+        "image": "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/v/i/vivo-y12s-162620-112633-600x600.jpg",
+        "price": 30000,
+        "owner": "Fly Tea",
+        "ice": [
+            "0%",
+            "30%",
+            "50%",
+            "70%",
+            "100%"
+        ],
+        "size": [
+            "S",
+            "M",
+            "L"
+        ],
+        "description": "Thiết kế ấn tượng, cầm nắm thoải mái - Mặt lưng chuyển sắc, góc bo cong mềm mại. Hiển thị sống độc, sắc nét - Màn hình 6.51 inch, độ phân giải HD+, chế độ bảo vệ mắt. Khắc họa chi tiết cuộc sống - Camera kép AI 13MP chụp ảnh thông minh. Bảo mật anh toàn, nhanh chóng - Vân tay siêu nhạy, mở khóa khuôn mặt thông minh"
+    }
+]
